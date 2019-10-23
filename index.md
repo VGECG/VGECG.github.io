@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Vishwakarma Government Engineering College"
+description: "Student Section - Vishwakarma Government Engineering College"
 permalink: /
 ---
 
